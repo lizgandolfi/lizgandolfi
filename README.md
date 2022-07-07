@@ -2,7 +2,7 @@
 </p>
 
 ---
-- 📖 I'm a student at Marquette University, double-majoring in Economics & International Relations
+- 📖 I'm an Italian student at Marquette University, double-majoring in Economics & International Relations
 - 💬 My interests include global issues, politics, finance, economics, trade and data
 - 💌 I also love writing and reading, horses, cooking and traveling
 - 🔭 I am currently working on improving my knowledge of Power BI, Excel, Python, AI and SQL
