@@ -3,7 +3,7 @@
 
 ---
 - 📖 I'm an Italian student at Marquette University, BA in Economics & International Relations ('24), Master in Applied Economics - Business & Managerial Analytics with a Certificate in DEV ('25)
-- 💬 My interests include economics, trade and data
+- 💬 My interests include AI, economics, trade and data
 - 🔭 I am currently working on improving my knowledge of R, Power BI, Excel, Python, AI and SQL
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lisa-gandolfi/)
 
